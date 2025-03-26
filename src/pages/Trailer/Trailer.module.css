@@ -1,0 +1,39 @@
+iframe {
+  height: 80vh;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+p {
+  margin: 0 auto;
+  padding: 0 17%;
+  font-size: 1.3rem;
+  line-height: 1.8;
+  color: #ffffff;
+  text-align: justify;
+}
+
+.steamContainer {
+  margin-top: 20px;
+  text-align: center;
+}
+.steamContainer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.linkText {
+  color: #ffffff;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.linkText a {
+  color: #cf8bcf;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.linkText a:hover {
+  color: #9797d8;
+}

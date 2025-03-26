@@ -1,0 +1,92 @@
+{ "videos": 
+  [
+    {
+        "id": 1,
+        "titulo": "Signalis",
+        "capa": "https://store-images.s-microsoft.com/image/apps.18082.14318995650611811.0f3dee8c-81a0-462b-ad92-c6b77b6038ef.b1c28a9f-6b32-4116-8cb0-451f6aa45b62",
+        "link": "https://www.youtube.com/embed/xfi7ivjXD3Y?si=-cbCSDeFanDg_zyA",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1922/F2NLbMp1w1z1btcObWEyihPS.png",
+        "analise": "Um survival horror que mistura pixel art e estética retrô sci-fi, trazendo uma atmosfera opressiva e uma narrativa enigmática. Inspirado por clássicos do gênero como Resident Evil e Silent Hill, Signalis aposta no mistério e em uma jogabilidade desafiadora, onde recursos são escassos e cada encontro com os inimigos pode ser mortal.",
+        "steam": "https://store.steampowered.com/app/1262350/SIGNALIS/"
+    },
+
+    {
+        "id": 2,
+        "titulo": "Resident Evil 2 Remake",
+        "capa": "https://cdnb.artstation.com/p/assets/images/images/011/281/423/large/riccardo-minervino-e3-cover.jpg?1528781938",
+        "link": "https://www.youtube.com/embed/u3wS-Q2KBpk?si=VQczrgyAUvuhpI-F",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/LHCbcu3PEOdWPN3htTlo9M43.png",
+        "analise": "Uma reimaginação incrível do clássico de 1998, Resident Evil 2 Remake combina gráficos impressionantes com jogabilidade moderna, mantendo o terror e a tensão do original. Leon e Claire enfrentam horrores inimagináveis em Raccoon City, com zumbis incrivelmente realistas e um Mr. X que não deixa ninguém em paz.",
+        "steam": "https://store.steampowered.com/app/883710/Resident_Evil_2/"
+    },
+
+    {
+        "id": 3,
+        "titulo": "Resident Evil 4 Remake",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/3/30/Resident_Evil_4_%28remake%29.png",
+        "link": "https://www.youtube.com/embed/C_IdgsdHwAo?si=-xfkGpbQMOse58wk",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/PjIoeaMt833otj5HukAWGfui.png",
+        "analise": "O remake de um dos jogos mais influentes da história traz visuais modernos, mecânicas refinadas e um tom mais sombrio. Resident Evil 4 Remake mantém a essência do original, mas adiciona novos desafios e uma ambientação ainda mais imersiva, tornando a jornada de Leon para resgatar Ashley uma experiência renovada e intensa.",
+        "steam": "https://store.steampowered.com/app/2050650/Resident_Evil_4/"
+    },
+
+    {
+        "id": 4,
+        "titulo": "Lies of P",
+        "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/06b354c8015b3c71e54f43aa883aab4641285d4a91734681.png",
+        "link": "https://www.youtube.com/embed/kXZoKdr-xeo?si=Aq_GD6urld7LMzsI",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/d946b9bae05aad7d8b289a9bcee0fb9fd215090b85d34540.png",
+        "analise": "Inspirado em Bloodborne e na história de Pinóquio, Lies of P traz um mundo steampunk sombrio e combates desafiadores no estilo Soulslike. Com um enredo intrigante e um sistema de combate preciso, o jogo testa a paciência e habilidade dos jogadores em uma aventura brutal e estilosa.",
+        "steam": "https://store.steampowered.com/app/1627720/Lies_of_P/"
+    },
+
+    {
+        "id": 4,
+        "titulo": "Sekiro: Shadows Die Twice",
+        "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/1700/B66T6RbAfvIGjpEQxPq7k0Mu.png",
+        "link": "https://www.youtube.com/embed/rXMX4YJ7Lks?si=7eV6xYZg9utpeKbU",
+        "banner": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/ofQOsetcmEILO4MjvRudoUOC.png",
+        "analise": "Desenvolvido pela FromSoftware, Sekiro reinventa a fórmula Soulslike ao focar em combate rápido e preciso, onde cada golpe pode significar a diferença entre a vitória e a derrota. A ambientação no Japão feudal misturado com elementos fantásticos dá ao jogo uma identidade única, desafiando até os jogadores mais experientes.",
+        "steam": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
+    },
+
+    {
+        "id": 5,
+        "titulo": "Persona 3 Reload",
+        "capa": "https://persona.atlus.com/p3p/resources/img/sp/p3p/fv_c0a61316977e0bf4f921e4e3082d8b9c.png",
+        "link": "https://www.youtube.com/embed/DG_gy1Tecco?si=l6xqqfwieTDgDW8i",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/19353f11f85964dd2be8eae4564a0e78b011a81824d9b4a9.png",
+        "analise": "Um dos RPGs mais icônicos da Atlus recebe um remake completo, modernizando os gráficos e refinando a jogabilidade. Persona 3 Reload mantém a história envolvente sobre adolescentes enfrentando forças sobrenaturais, enquanto equilibra a vida escolar e as batalhas intensas no Tartarus.",
+        "steam": "https://store.steampowered.com/app/2161700/Persona_3_Reload/"
+    },
+
+    {
+        "id": 6,
+        "titulo": "Bloodborne - Cut You Down",
+        "capa": "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/Sy5e8DmeKIJVjlAGraPAJYkT.png",
+        "link": "https://www.youtube.com/embed/2Crk_GpxGQE?si=elGNloLi2U9prTHQ",
+        "banner": "https://blackcompany.com.br/wp-content/uploads/2025/03/Capa-oficial-de-Bloodborne.png",
+        "analise": "Uma homenagem ao clássico da FromSoftware, Bloodborne - Cut You Down celebra a brutalidade e a atmosfera gótica vitoriana do jogo. Entre criaturas grotescas e cenários assombrosos, os jogadores experimentam um combate agressivo e recompensador, onde apenas os mais habilidosos sobrevivem."
+    },
+
+    {
+        "id": 7,
+        "titulo": "Silent Hill 2",
+        "capa": "https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2024/10/05/silent-hill-2-remake-trwdtgcv5ank.jpg",
+        "link": "https://www.youtube.com/embed/CMvrMTmuJuA?si=PVWmyj2NoF-3TYwA",
+        "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2513/0c858140c6d66dd3536416181904b166835ace3edb0d5754.jpg",
+        "analise": "O clássico do terror psicológico retorna com um remake que promete recriar a experiência assustadora e emocional do original. Silent Hill 2 mergulha os jogadores na mente perturbada de James Sunderland enquanto ele explora a cidade envolta em neblina, enfrentando horrores que testam sua sanidade.",
+        "steam": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/"
+    },
+
+    {
+        "id": 8,
+        "titulo": "Star Wars: Jedi Fallen Order",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/d/d6/Star_Wars_Jedi_Fallen_Order_capa.png",
+        "link": "https://www.youtube.com/embed/xIl2z5wwjdA?si=G7QM-VIBKi48QsRa",
+        "banner": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/jedi-fallen-orderWide-1920x1080-28eae371dbae080e2fc0df646fa42917.jpg",
+        "analise": "Acompanhe Cal Kestis, um jovem padawan em sua luta para restaurar a Ordem Jedi após a devastação da Ordem 66. Com combate inspirado em Soulslike, habilidades da Força e o clássico sabre de luz, o jogo oferece ação intensa e ambientes detalhados que capturam a essência da galáxia de Star Wars.",
+        "steam": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/"
+    }
+  ]
+}

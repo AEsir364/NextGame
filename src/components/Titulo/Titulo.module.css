@@ -1,0 +1,7 @@
+.texto h1 {
+  font-size: 32px;
+  font-weight: 500;
+  margin-left: 17%;
+  text-align: start;
+  color: var(--branco);
+}

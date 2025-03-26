@@ -1,0 +1,23 @@
+.link {
+  color: var(--branco);
+  font-size: 18px;
+  font-weight: 400;
+  padding: 1em;
+  text-decoration: none;
+  position: relative;
+}
+
+.link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--branco);
+  transition: width 0.3s ease;
+}
+
+.link:hover::after {
+  width: 100%;
+}
